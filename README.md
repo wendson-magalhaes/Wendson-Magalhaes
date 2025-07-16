@@ -163,5 +163,9 @@ Sou movido por desafios e pela vontade constante de aprender e evoluir. Gosto de
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendson-magalhaes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXp1emJnMzVyc3c2a25jZWUwMWpzNjlhY3Q2YzI2ZWNtNnpiM3U2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3osxYoufeOGOA7xiX6/giphy.gif"  />
 </p>
+
+
+<img align="right" widght = "150" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXp1emJnMzVyc3c2a25jZWUwMWpzNjlhY3Q2YzI2ZWNtNnpiM3U2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3osxYoufeOGOA7xiX6/giphy.gif"  />
+
+
